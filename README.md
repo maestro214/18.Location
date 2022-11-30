@@ -1,4 +1,4 @@
-# aop-part4-chapter03 - 위치검색 지도 앱
+#  위치검색 지도 앱
 
 ---
 
@@ -8,6 +8,20 @@
 2. Tmap POI 데이터 소개 및 데이터 뿌리기
 3. GoogleMap 소개 및 데이터 보여주기
 4.  추가 기능 구현 및 코드 정리하기
+
+## 이 챕터를 통해 배운 것
+
+
+
+
+### ExoPlayer
+
+- Google이 Android SDK 와 별도로 배포되는 오픈소스 프로젝트
+- 오디오 및 동영상 재생 가능
+- 오디오 및 동영상 재생 관련 강력한 기능들 포함
+- 유튜브 앱에서 사용하는 라이브러리
+- https://exoplayer.dev/hello-world.html
+
 
 
 
